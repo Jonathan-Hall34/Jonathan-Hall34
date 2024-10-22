@@ -5,6 +5,7 @@ Student at the University of North Alabama, currently pursuing a major in Comput
 
 * 🌍  I'm based in Muscle Shoals, Alabama
 * ✉️  You can contact me at [jhall22@una.edu](mailto:jhall22@una.edu)
+* 🚀  I'm currently working on [My Dev Profile Page](http://jonathan-hall34.github.io/dev-edward-profile/index.html)
 * ⚡  I enjoy working out, watching sports, hanging out with my friends and playing video games.
 
 ### Skills
