@@ -1,11 +1,11 @@
 Hi 👋 My name is Jonathan Hall
 ==============================
 
-Student at the University of North Alabama, currently pursuing a major in Computer Information Systems (CIS).
+BBA Graduate from the University of North Alabama. I majored in Computer Information Systems (CIS).
 
 * 🌍  I'm based in Muscle Shoals, Alabama
-* ✉️  You can contact me at [jhall22@una.edu](mailto:jhall22@una.edu)
-* 🚀  I'm currently working on [My Dev Profile Page](http://jonathan-hall34.github.io/dev-edward-profile/index.html)
+* ✉️  You can contact me at [jblake8201@yahoo.com](mailto:jblake8201@yahoo.com)
+* 🚀  I'm currently working on [My Video Game Tracker App](https://game-tracker-a8ck.onrender.com/)
 * ⚡  I enjoy working out, watching sports, hanging out with my friends and playing video games.
 
 ### Skills
